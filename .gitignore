@@ -1,0 +1,7 @@
+# Ignore environment files
+.env
+
+# Optional safety
+__pycache__/
+*.pyc
+*.log
