@@ -1,5 +1,6 @@
 # Ignore environment files
 .env
+myenv/
 
 # Optional safety
 __pycache__/
